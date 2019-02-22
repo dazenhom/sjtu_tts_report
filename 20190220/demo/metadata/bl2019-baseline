@@ -1,0 +1,6 @@
+#      name            | superior (empty for root) | list file    | type (head or wav) | comment
+hanzi                  |                           | hanzi.scp    | txt                | 文本
+phone                  |                           | phone.scp    | txt                | phone
+baseline               |                           | baseline.scp | wav                | baseline-256k
+original               |                           | orig.scp     | wav                | original wav
+analyse                |                           | anls.scp     | wav                | analyse gl
