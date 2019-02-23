@@ -1,0 +1,10 @@
+#      name            | superior (empty for root) | list file    | type (head or wav) | comment
+hanzi                  |                           | hanzi.scp    | txt                | 文本
+phone                  |                           | phone.scp    | txt                | phone
+original               |                           | orig.scp     | wav                | original wav
+analyse                |                           | anls.scp     | wav                | analyse gl
+baseline               |                           | baseline.scp | wav                | baseline-256k
+root                   |                           |              |                    | multispeaker
+simple_265000          | root                      | simple.scp   | wav                | simple-265k
+deep_268000            | root                      | deep.scp     | wav                | deepvoice-268k
+
